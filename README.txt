@@ -82,6 +82,3 @@ The project is implemented as follows:
 
 	a. On R1: Only VLAN 10 won't be able to send ICMP packets to VLAN 140. Name: BLACKv10.
 	b. On R2: Only PC 14 in VLAN 60 won't be able to communicate with 192.168.5.0/24. Name: BLACKpc14.
-
-
-**
